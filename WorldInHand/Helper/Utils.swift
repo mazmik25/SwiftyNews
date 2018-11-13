@@ -10,7 +10,7 @@ import Foundation
 
 struct Base {
     static let newsUrl = "https://newsapi.org/v2/"
-    static let newsToken = "5e9ba28548ef4f86a524c1514b48459f"
+    static let newsToken = "YOUR_API_KEY"
     static let categories = ["business", "entertainment", "health", "science", "sports", "technology"]
 }
 

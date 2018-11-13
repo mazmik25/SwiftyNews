@@ -8,6 +8,6 @@ target 'WorldInHand' do
     	pod 'SwiftyJSON', '~> 4.0'
     	pod 'Alamofire', '~> 4.7'
     	pod 'AlamofireImage', '~> 3.4'
-	pod 'Toast-Swift', '~> 4.0.0'
+		pod 'Toast-Swift', '~> 4.0.0'
 
 end
